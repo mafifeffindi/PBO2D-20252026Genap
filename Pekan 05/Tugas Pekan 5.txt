@@ -1,0 +1,10 @@
+File penjelasan tugas Pekan 5.
+
+Mahasiswa membuat kode Java pada ruang lingkup sebagai berikut:
+Java Encapsulation
+Java Packages / API
+Java Inheritance
+Java Polymorphism
+Java super Keyword
+Java Inner Classes
+Java Abstraction
